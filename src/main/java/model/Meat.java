@@ -6,6 +6,5 @@ public class Meat extends Food {
         super(amount, price);
         this.isVegetarian = false;
     }
-
     // getDiscount() и так 0
 }
