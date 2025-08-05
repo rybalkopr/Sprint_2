@@ -30,3 +30,4 @@ public abstract class Food {
         return 0;
     }
 }
+
