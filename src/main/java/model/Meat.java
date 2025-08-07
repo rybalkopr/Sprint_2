@@ -8,4 +8,4 @@ public class Meat extends Food {
     }
     // getDiscount() и так 0
 }
-//test.
+//test
