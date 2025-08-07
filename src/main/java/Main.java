@@ -26,4 +26,4 @@ public class Main {
         System.out.println("Сумма вегетарианских продуктов без скидки: " + vegetarianTotal);
     }
 }
-//test
+//test.
